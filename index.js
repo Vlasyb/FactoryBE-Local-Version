@@ -11,7 +11,7 @@ const connectDB = require("./configs/DB")
 
 const app = express()
 const port = 8080
-
+// login branch
 connectDB()
 
 app.use(cors({ origin: [`http://localhost:3000`], credentials: true }))
