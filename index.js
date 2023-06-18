@@ -18,7 +18,7 @@ app.use(cors({ origin: [`http://localhost:3000`], credentials: true }))
 app.use(express.json())
 app.use(cookieparser())
 
-// Routers ------------------- ++++++++ ]]]]]skdhalksdhasdhalksdhlasdhalsdh
+// Routers ------------------- ++++++++
 app.use("/employees", employeesRouter)
 app.use("/departments", departmentsRouter)
 app.use("/shifts", shiftsRouter)
