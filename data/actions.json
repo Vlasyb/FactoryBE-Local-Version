@@ -1,0 +1,148 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "15/06/2023",
+      "actionAllowd": 3
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "15/06/2023",
+      "actionAllowd": 2
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "15/06/2023",
+      "actionAllowd": 1
+    },
+    {
+      "id": 2,
+      "maxActions": 7,
+      "date": "15/06/2022",
+      "actionAllowd": 3
+    },
+    {
+      "id": 2,
+      "maxActions": 7,
+      "date": "15/07/2023",
+      "actionAllowd": 2
+    },
+    {
+      "id": 2,
+      "maxActions": 7,
+      "date": "15/06/2023",
+      "actionAllowd": 3
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 9
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 8
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 7
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 6
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 5
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 4
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 3
+    },
+    {
+      "id": 4,
+      "maxActions": 10,
+      "date": "15/06/2023",
+      "actionAllowd": 2
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 4
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 3
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 2
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 1
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 0
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 4
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 3
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 2
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "17/06/2023",
+      "actionAllowd": 1
+    },
+    {
+      "id": 1,
+      "maxActions": 5,
+      "date": "18/06/2023",
+      "actionAllowd": 4
+    }
+  ]
+}
